@@ -1,0 +1,12 @@
+Para iniciar cualquier documento bash es: #!/bin/bash
+
+mkdir: Para crear directorios.
+clear: Para limpiar la terminal.
+touch: Para crear archivos.
+emacs: Para abrir emacs dentro o fuera de la terminal.
+fg: Para ir a un proceso que esta suspendido.
+jobs: Para ver los procesos que se estan haciendo.
+ls: Para ver que archivos se encuentran donde estoy.
+mv: Para mover un archivo de un lugar a otro.
+rm: Para borrar archivos.
+kill: Para matar procesos.
